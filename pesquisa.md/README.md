@@ -54,7 +54,7 @@ Nesta atividade, você e sua dupla vão pesquisar o que é **fork** e comparar t
 ```md
 # Pesquisa — Fork e Fluxos de Versionamento
 
-**Autores:** Nome da(o) Aluna(o) 1, Nome da(o) Aluna(o) 2  
+**Autores:** David de araujo nascimento David Costa
 **Turma:** 2º ano do Ensino Médio
 
 **Texto (5–8 linhas):**  
