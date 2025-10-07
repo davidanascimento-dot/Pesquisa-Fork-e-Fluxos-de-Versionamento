@@ -58,4 +58,4 @@ Nesta atividade, você e sua dupla vão pesquisar o que é **fork** e comparar t
 **Turma:** 2º ano do Ensino Médio
 
 **Texto (5–8 linhas):**  
-(Escreva aqui seu resumo em texto corrido, respondendo às quatro questões da atividade.)
+(Fork é uma cópia completa de um repositório para sua conta GitHub, usado para contribuir com projetos de terceiros sem afetar o original. Diferenciamos: fork (cópia para outra conta), clone (download para máquina local) e branch (ramificação dentro do mesmo repositório). Comparando fluxos, GitHub Flow é simples para deploy contínuo, Git Flow é estruturado para releases formais e Trunk-Based é ágil para integração constante. Pull Request é uma solicitação de mudança que permite revisão colaborativa, garantindo qualidade no código através do controle coletivo.)
